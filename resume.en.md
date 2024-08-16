@@ -8,12 +8,11 @@ line. It is intended to be used for contact details -->
 - [LinkedIn](https://www.linkedin.com/in/pedrollgoncalves)
 - São Vicente, SP
 
-
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experiência de mais de 15 anos em TI
+I am a Software Engineer with a strong foundation in IT, experienced in leading and contributing to significant projects such as refactoring core systems, developing financial services, and migrating critical services to modern architectures. Passionate about building scalable, efficient systems and working in collaborative environments that drive innovation and business success.
 
-## Experiência
+## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
@@ -23,14 +22,14 @@ hand -->
 - Designed and implemented a company-wide ledger service, utilized as a tracking and reconciliation tool, ensuring accurate and secure transaction details across the organization.
 - Led the team responsible for the design and implementation of the credit card purchase dispute service, successfully integrating banking services, mobile platforms, product requirements, and legal compliance.
 - Currently spearheading the migration from a legacy foreign exchange service on AWS Lambda to a self-managed Kubernetes cluster, reengineering all transaction flows to create a central foreign exchange transaction service that integrates across multiple Business Units.
-- **Tecnologias**: Nodejs, NestJS, Typescript, Javascript, Postgres, Redis, AWS, Kubernetes, Docker
+- **Technologies**: Nodejs, NestJS, Typescript, Javascript, Postgres, Redis, AWS, Kubernetes, Docker
 
 ### <span>Software Engineer, Husky</span>       <span>Aug 2022 -- Feb 2023</span>
 
 - Led a major refactor of the core codebase, focusing on modernizing the architecture by reducing complexity, minimizing bugs, and improving the ability to launch new features through increased code cohesion and reduced coupling.
 - Developed a new feature enabling customers to manually initiate forex conversions, enhancing user control and flexibility.
 - Designed and implemented a ledger module that improved the tracking, accuracy, and control of financial transactions.
-- **Tecnologias**: Ruby on Rails, Postgres, Docker, Sidekiq, Javascript
+- **Technologies**: Ruby on Rails, Postgres, Docker, Sidekiq, Javascript
 
 ### <span>Oracle EBS Developer / Analyst, DXC Technology</span>       <span>Feb 2017 -- Aug 2022</span>
 
@@ -38,40 +37,40 @@ hand -->
 - Developed a Python/Django-based Sales Order workflow application, integrating with Oracle EBS to streamline operations and reduce costs.
 - Maintained and supported the localization tax solution (Mastersaf) for compliance and efficient tax operations.
 - Collaborated with IT and business teams to ensure seamless project transitions and application implementations.
-- **Tecnologias**: Oracle DBMS, PL/SQL, Oracle E-Business Suite, Oracle Cloud Infrastructure, Python/Django, Workflow Automation
+- **Technologies**: Oracle DBMS, PL/SQL, Oracle E-Business Suite, Oracle Cloud Infrastructure, Python/Django, Workflow Automation
 
 
 ### <span>JDEdwards Functional Analyst / Developer</span> <span>Aug 2009 -- Jan 2017</span>
 
-- Atuei como líder técnico no time de suporte, sendo responsável pelo troubleshooting avançado, debugging e otimização de performance para os módulos de distribuição e finanças do JDEdwards em NER, PL/SQL e linguagem C.
-- Desenvolvi um sistema de relatórios em Python para acompanhamento em tempo real de SLA, melhorando significativamente a gestão da equipe de suporte.
-- Participei do desenvolvimento e implementação de um sistema automatizado de suporte a tickets usando scripts PL/SQL, reduzindo o tempo de resolução e automatizando a resolução de incidentes.
-- Trabalhei na manutenção e suporte a interfaces críticas com sistemas externos de impostos, bancos e inventários, garantindo operações contínuas.
-- Ofereci treinamento e suporte a usuários finais, aprimorando a eficiência operacional e reduzindo o volume de tickets de suporte.
-Criei e mantive extrações de dados e relatórios com Oracle SQL e PL/SQL, otimizando os processos de tomada de decisão.
+- Served as the lead technical engineer, spearheading advanced troubleshooting, debugging, and performance tuning for JDEdwards distribution and financial modules in NER, PL/SQL and C language.
+- Developed a Python-based reporting system for real-time SLA tracking, significantly improving support team management.
+- Engineered an automated ticket support system using PL/SQL scripts, reducing resolution time and automating incident resolution.
+- Maintained and supported critical interfaces with external tax, banking, and inventory systems to ensure seamless operations.
+- Provided training and support to end-users, enhancing competency and reducing support ticket volume.
+- Created and maintained data extractions and reports with Oracle SQL and PL/SQL, streamlining decision-making processes.
 - **Technologies**: JDEdwards, Oracle DBMS, PL/SQL, Python, Debugging, Performance Tuning, C
 
 
-### <span>Analista Funcional JDEdwards / Consultor</span> <span>Dez 2007 - Ago 2009</span>
+### <span>JDEdwards Functional Analyst / Consultant</span> <span>Dec 2007 - Aug 2009</span>
 
-- Implementei a Nota Fiscal Eletrônica (Nota Fiscal Eletrônica Mercantil) para dois clientes, garantindo conformidade e eficiência.
-- Configurei o JDEdwards para alinhar-se às necessidades de negócios em evolução, aprimorando a funcionalidade e a escalabilidade do sistema.
-- Ministrei treinamentos para usuários finais nos módulos de vendas e impostos, aumentando a eficiência operacional e a proficiência dos usuários.
-- Coletei e documentei requisitos, criando uma ponte entre as equipes de TI e negócios com documentação clara e precisa.
-- **Tecnologias**: JDEdwards, DB2, SQL
+- Implemented Electronic Invoicing (Nota Fiscal Eletrônica Mercantil) for two clients, ensuring compliance and efficiency.
+- Configured JDEdwards to align with evolving business needs, enhancing system functionality and scalability.
+- Delivered end-user training on sales and tax modules, boosting operational efficiency and user proficiency.
+- Collected and documented requirements, bridging the gap between IT and business teams with clear, actionable documentation.
+- **Technologies**: JDEdwards, DB2, SQL
 
-## Educação
+## Education
 
 ### <span>FATEC Baixada Santista, Análise e Desenvolvimento de Sistemas</span> <span>2013 -- 2016</span>
 
 
-## Conhecimentos
+## Skills
 
 <br>
-**Inglês** - C2 Proficient
+**English** - C2 Proficient
 <br>
 
-- **Linguagens/Tecnologias**: Node.js, JavaScript, Typescript, Nestjs, Ruby on Rails, Python, Django
-- **Dados**: Postgres, Redis, Oracle, SQL Server, PL/SQL
-- **Infraestrutura**: Docker, Kubernetes, AWS
-- **Conhecimento funcional**: T-SQL, C#, React, Angular, Mongodb, C
+- **Languages/Technologies**: Node.js, JavaScript, Typescript, Nestjs, Ruby on Rails, Python, Django
+- **Data**: Postgres, Redis, Oracle, SQL Server, PL/SQL
+- **Infrastructure**: Docker, Kubernetes, AWS
+- **Working knowledge**: T-SQL, C#, React, Angular, Mongodb, C
