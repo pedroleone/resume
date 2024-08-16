@@ -61,8 +61,9 @@ hand -->
 
 ## Education
 
-### <span>FATEC Baixada Santista, Análise e Desenvolvimento de Sistemas</span> <span>2013 -- 2016</span>
-
+### <span>FATEC Baixada Santista, Systems Analysis and Development</span> <span>2013 -- 2016</span>
+### <span>ITIL® Foundation certificate in IT Service Management</span> <span>2016</span>
+### <span>Scrum Foundation Professional Certificate</span> <span>2020</span>
 
 ## Skills
 
@@ -72,5 +73,5 @@ hand -->
 
 - **Languages/Technologies**: Node.js, JavaScript, Typescript, Nestjs, Ruby on Rails, Python, Django
 - **Data**: Postgres, Redis, Oracle, SQL Server, PL/SQL
-- **Infrastructure**: Docker, Kubernetes, AWS
+- **Infrastructure**: Docker, Kubernetes, AWS, Oracle Cloud Infrastructure
 - **Working knowledge**: T-SQL, C#, React, Angular, Mongodb, C

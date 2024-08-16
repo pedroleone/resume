@@ -11,33 +11,33 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Experiência de mais de 15 anos em TI
+Experiência de mais de 15 anos em TI, contribuindo e atuando em grandes projetos críticos de sistemas financeiros, tributários e gerenciais. Sólidos conhecimentos técnicos, grande capacidade analítica, apaixonado por aprender e resolver problemas.
 
 ## Experiência
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Senior Software Engineer, Nomad</span>       <span>Feb 2023 -- present</span>
+### <span>Senior Software Engineer, Nomad</span>       <span>Fev 2023 -- atual</span>
 
-- Designed and implemented a company-wide ledger service, utilized as a tracking and reconciliation tool, ensuring accurate and secure transaction details across the organization.
-- Led the team responsible for the design and implementation of the credit card purchase dispute service, successfully integrating banking services, mobile platforms, product requirements, and legal compliance.
-- Currently spearheading the migration from a legacy foreign exchange service on AWS Lambda to a self-managed Kubernetes cluster, reengineering all transaction flows to create a central foreign exchange transaction service that integrates across multiple Business Units.
+- Desenhei e implementei um serviço de ledger para ser utilizado por outros times como uma ferramenta de rastreamento e conciliação, garantindo detalhes de transações precisos e seguros em toda a organização.
+- Liderei a equipe responsável pelo design e implementação do serviço de disputa de compras com cartão de crédito, integrando com sucesso os serviços de banking, plataformas mobile, requisitos de produto e conformidade legal.
+- Atualmente, estou liderando a migração de um serviço legado de câmbio no AWS Lambda para um cluster Kubernetes gerenciado, reestruturando todos os fluxos de transações para criar um serviço central de transações de câmbio que irá integrar todas as unidades de negócio que realizam câmbio.
 - **Tecnologias**: Nodejs, NestJS, Typescript, Javascript, Postgres, Redis, AWS, Kubernetes, Docker
 
-### <span>Software Engineer, Husky</span>       <span>Aug 2022 -- Feb 2023</span>
+### <span>Software Engineer, Husky</span>       <span>Ago 2022 -- Fev 2023</span>
 
-- Led a major refactor of the core codebase, focusing on modernizing the architecture by reducing complexity, minimizing bugs, and improving the ability to launch new features through increased code cohesion and reduced coupling.
-- Developed a new feature enabling customers to manually initiate forex conversions, enhancing user control and flexibility.
-- Designed and implemented a ledger module that improved the tracking, accuracy, and control of financial transactions.
+- Participei de uma grande refatoração da base de código, com foco na modernização da arquitetura, reduzindo a complexidade, minimizando bugs e melhorando a capacidade de lançar novas funcionalidades por meio do aumento da coesão e redução do acoplamento.
+- Desenvolvi a funcionalidade que permite aos clientes iniciar manualmente conversões de câmbio, aumentando o controle e a flexibilidade do usuário.
+- Desenhei e implementei um módulo de ledger contábil que aprimorou o rastreamento, a precisão e o controle das transações financeiras.
 - **Tecnologias**: Ruby on Rails, Postgres, Docker, Sidekiq, Javascript
 
-### <span>Oracle EBS Developer / Analyst, DXC Technology</span>       <span>Feb 2017 -- Aug 2022</span>
+### <span>Analista Funcional / Desenvolvedor Oracle EBS, DXC Technology</span>       <span>Fev 2017 -- Ago 2022</span>
 
-- Led the upgrade of Oracle E-Business Suite from R11 to R12.2 and migrated servers to Oracle Cloud with minimal downtime.
-- Developed a Python/Django-based Sales Order workflow application, integrating with Oracle EBS to streamline operations and reduce costs.
-- Maintained and supported the localization tax solution (Mastersaf) for compliance and efficient tax operations.
-- Collaborated with IT and business teams to ensure seamless project transitions and application implementations.
+- Liderei a atualização do Oracle E-Business Suite da versão R11 para R12.2 e migrei os servidores para a Oracle Cloud com tempo mínimo de downtime.
+- Desenvolvi uma aplicação de workflow de pedidos de vendas baseada em Python/Django, integrando-a com o Oracle EBS para otimizar as operações e reduzir significamente custos de licença.
+- Mantive e dei suporte à solução de impostos de localização (Mastersaf) para garantir conformidade e eficiência nas operações fiscais.
+- Colaborei com as equipes de TI e negócios para garantir que projetos e implementações de melhorias fossem feitas com qualidade e conformidade.
 - **Tecnologias**: Oracle DBMS, PL/SQL, Oracle E-Business Suite, Oracle Cloud Infrastructure, Python/Django, Workflow Automation
 
 
@@ -49,7 +49,7 @@ hand -->
 - Trabalhei na manutenção e suporte a interfaces críticas com sistemas externos de impostos, bancos e inventários, garantindo operações contínuas.
 - Ofereci treinamento e suporte a usuários finais, aprimorando a eficiência operacional e reduzindo o volume de tickets de suporte.
 Criei e mantive extrações de dados e relatórios com Oracle SQL e PL/SQL, otimizando os processos de tomada de decisão.
-- **Technologies**: JDEdwards, Oracle DBMS, PL/SQL, Python, Debugging, Performance Tuning, C
+- **Tecnologias**: JDEdwards, Oracle DBMS, PL/SQL, Python, Debugging, Performance Tuning, C
 
 
 ### <span>Analista Funcional JDEdwards / Consultor</span> <span>Dez 2007 - Ago 2009</span>
@@ -63,7 +63,8 @@ Criei e mantive extrações de dados e relatórios com Oracle SQL e PL/SQL, otim
 ## Educação
 
 ### <span>FATEC Baixada Santista, Análise e Desenvolvimento de Sistemas</span> <span>2013 -- 2016</span>
-
+### <span>ITIL® Foundation certificate in IT Service Management</span> <span>2016</span>
+### <span>Scrum Foundation Professional Certificate</span> <span>2020</span>
 
 ## Conhecimentos
 
@@ -73,5 +74,5 @@ Criei e mantive extrações de dados e relatórios com Oracle SQL e PL/SQL, otim
 
 - **Linguagens/Tecnologias**: Node.js, JavaScript, Typescript, Nestjs, Ruby on Rails, Python, Django
 - **Dados**: Postgres, Redis, Oracle, SQL Server, PL/SQL
-- **Infraestrutura**: Docker, Kubernetes, AWS
+- **Infraestrutura**: Docker, Kubernetes, AWS, Oracle Cloud Infrastructure
 - **Conhecimento funcional**: T-SQL, C#, React, Angular, Mongodb, C
